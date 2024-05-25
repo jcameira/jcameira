@@ -66,11 +66,11 @@ A repository documenting my progress and projects at 42 Lisbon. Here, you can fi
 
 With more to come...
 
-## Let's Connect!
+<!-- ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/yourtwitterhandle)
-- [42 Network Profile](https://profile.intra.42.fr/users/yourprofile)
+- [42 Network Profile](https://profile.intra.42.fr/users/yourprofile) -->
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
