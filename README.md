@@ -1,12 +1,12 @@
 # Hi there, I'm João Lucas! 👋
 
-I'm a passionate software developer currently studying at [42 Lisbon](https://www.42lisboa.com/), a unique and innovative programming school with  a peer-to-peer learning model. My journey in tech is driven by curiosity, creativity, and a desire to learn.
+I'm a passionate Computer Science student and aspiring software developer currently studying at [42 Lisbon](https://www.42lisboa.com/), a unique and innovative programming school with  a peer-to-peer learning model. My journey in tech is driven by curiosity, creativity, and a desire to learn.
 
 ## About Me
 
 - 🔭 I’m currently working on various projects as part of the 42 curriculum as well as other personal projects.
 - 🌱 I’m deepening my knowledge in C, C++, Python, and a variety of other programming languages and technologies.
-- 💬 Ask me about algorithms, data structures, and software development in general.
+- 💬 My hobbies are mostly related to gaming and software development.
 - 📫 How to reach me: [joao_carlos1995@hotmail.com](mailto:joao_carlos1995@hotmail.com) <!-- or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). -->
 
 ## 🏆 42 Progress
@@ -99,6 +99,7 @@ Here is a summary of my progress at 42 Lisbon:
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jcameira&show_icons=true&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcameira&theme=algolia)](https://git.io/streak-stats)
 
 ## Mostly used languages
 
@@ -113,20 +114,3 @@ With more to come...
 - [42 Network Profile](https://profile.intra.42.fr/users/yourprofile) -->
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions, suggestions, or just want to connect!
-
-
-
-<!--
-**jcameira/jcameira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
