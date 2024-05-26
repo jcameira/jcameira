@@ -9,23 +9,62 @@ I'm a passionate software developer currently studying at [42 Lisbon](https://ww
 - 💬 Ask me about algorithms, data structures, and software development in general.
 - 📫 How to reach me: [joao_carlos1995@hotmail.com](mailto:joao_carlos1995@hotmail.com) <!-- or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). -->
 
-<!-- ## Projects
+## 🏆 42 Progress
 
-Here are a few projects I've worked on or am currently working on:
+Here is a summary of my progress at 42 Lisbon:
 
-### [Libft](https://github.com/yourusername/libft)
-A custom implementation of several standard C library functions. This project helped me solidify my understanding of pointers, memory allocation, and string manipulation in C.
-
-### [ft_printf](https://github.com/yourusername/ft_printf)
-A reimplementation of the printf function in C. This project was a deep dive into variadic functions, formatting, and output handling.
-
-### [GNL (Get Next Line)](https://github.com/yourusername/get_next_line)
-A function to read a line from a file descriptor. This project focused on file I/O, buffer management, and handling different edge cases.
-
-### [42Lisboa Curriculum](https://github.com/yourusername/42lisboa-curriculum)
-A repository documenting my progress and projects at 42 Lisbon. Here, you can find detailed explanations and code for each project I've completed.
-
--->
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Important Concepts</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Libft-42Lisbon">Libft</a></b></td>
+    <td>[Memory Management] [Pointer Management] [Standard Library Functions]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Ft_printf-42Lisbon">ft_printf</a></b></td>
+    <td>[Variadic Functions] [Formatting Specifiers] [Buffer Management]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Get_next_line-42Lisbon">get_next_line</a></b></td>
+    <td>[File I/O] [Buffer Management] [Edge Case Handling]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b>Born2beroot</b></td>
+    <td>[System Administration] [Security and Hardening] [Troubleshooting and Maintenance]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Push_swap-42lisbon">push_swap</a></b></td>
+    <td>[Sorting Algorithms] [Data Structures] [Algorithm Optimization]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Pipex-42lisbon">pipex</a></b></td>
+    <td>[Process Communication] [File Descriptor Management] [Command Execution and Environment]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/yourusername/Fdf-42lisbon">fdf</a></b></td>
+    <td>[Graphics Rendering] [3D Projections] [Input Handling and Controls]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/Philosophers-42lisbon">Philosophers</a></b></td>
+    <td>[Multithreading] [Mutexes and Semaphores] [Deadlock and Data Races Avoidance]</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b>minishell</b></td>
+    <td>[Parsing and Tokenization] [Process Management] [Signal Handling and Built-ins]</td>
+    <td>🔄 Ongoing</td>
+  </tr>
+</table>
 
 ## Skills
 
@@ -41,6 +80,7 @@ A repository documenting my progress and projects at 42 Lisbon. Here, you can fi
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HMTL" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="SQL" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="ASM" width="40" height="40"/>
 
 ### Tools & Technologies
 
