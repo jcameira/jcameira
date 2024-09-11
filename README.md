@@ -40,22 +40,22 @@ Here is a summary of my progress at 42 Lisbon:
     <td>✅ 125%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/jcameira/Push_swap-42lisbon">push_swap</a></b></td>
+    <td><b><a href="https://github.com/jcameira/Push_swap-42Lisbon">push_swap</a></b></td>
     <td>[Sorting Algorithms] [Data Structures] [Algorithm Optimization]</td>
     <td>✅ 125%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/jcameira/Pipex-42lisbon">pipex</a></b></td>
+    <td><b><a href="https://github.com/jcameira/Pipex-42Lisbon">pipex</a></b></td>
     <td>[Process Communication] [File Descriptor Management] [Command Execution and Environment]</td>
     <td>✅ 125%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/yourusername/Fdf-42lisbon">fdf</a></b></td>
+    <td><b><a href="https://github.com/jcameira/Fdf-42Lisbon">fdf</a></b></td>
     <td>[Graphics Rendering] [3D Projections] [Input Handling and Controls]</td>
     <td>✅ 125%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/jcameira/Philosophers-42lisbon">Philosophers</a></b></td>
+    <td><b><a href="https://github.com/jcameira/Philosophers-42Lisbon">Philosophers</a></b></td>
     <td>[Multithreading] [Mutexes and Semaphores] [Deadlock and Data Races Avoidance]</td>
     <td>✅ 125%</td>
   </tr>
