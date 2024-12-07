@@ -62,7 +62,7 @@ Here is a summary of my progress at 42 Lisbon:
   <tr>
     <td><b><a href="https://github.com/jcameira/Minishell-42Lisbon">Minishell</a></b></td>
     <td>[Parsing and Tokenization] [Process Management] [Signal Handling and Built-ins]</td>
-    <td>✅ 125%g</td>
+    <td>✅ 125%</td>
   </tr>
 </table>
 
