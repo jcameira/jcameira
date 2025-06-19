@@ -1,13 +1,15 @@
 # Hi there, I'm João Lucas! 👋
 
-I'm a passionate Computer Science student and aspiring software developer currently studying at [42 Lisbon](https://www.42lisboa.com/), a unique and innovative programming school with  a peer-to-peer learning model. My journey in tech is driven by curiosity, creativity, and a desire to learn.
+I'm a passionate Computer Science student and aspiring software developer currently studying at [42 Lisbon](https://www.42lisboa.com/), a unique and innovative programming school with  a peer-to-peer learning model. I’m driven by curiosity and a love for solving complex problems through code. I enjoy exploring the deeper layers of systems programming while building clean, efficient, and maintainable software.
 
 ## About Me
 
 - 🔭 I’m currently working on various projects as part of the 42 curriculum as well as other personal projects.
 - 🌱 I’m deepening my knowledge in C, C++, Python, and a variety of other programming languages and technologies.
 - 💬 My hobbies are mostly related to gaming and software development.
-- 📫 How to reach me: [joao_carlos1995@hotmail.com](mailto:joao_carlos1995@hotmail.com) <!-- or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). -->
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/email-joao_carlos1995@hotmail.com-blue?style=flat&logo=gmail)](mailto:joao_carlos1995@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jcameira-181717?style=flat&logo=github)](https://github.com/jcameira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joão-cameira-lucas)
 
 ## 🏆 42 Progress
 
@@ -64,6 +66,36 @@ Here is a summary of my progress at 42 Lisbon:
     <td>[Parsing and Tokenization] [Process Management] [Signal Handling and Built-ins]</td>
     <td>✅ 125%</td>
   </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/CPP00-42Lisbon">CPP Module 00</b></td>
+    <td>[Namespaces] [IO Stream] [Basic OOP Syntax and Concepts]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/CPP01-42Lisbon">CPP Module 01</b></td>
+    <td>[Memory Allocation] [References] [File Stream Handling]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/CPP02-42Lisbon">CPP Module 02</b></td>
+    <td>[Ad-hoc Polymorphism] [Overloading Operators and Functions] [Templates]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/CPP03-42Lisbon">CPP Module 03</b></td>
+    <td>[Inheritance] [Virtual Functions] [Polymorphism]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/CPP04-42Lisbon">CPP Module 04</b></td>
+    <td>[Abstract Classes] [Interfaces] [Exception Handling]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/jcameira/MiniRT-42Lisbon">MiniRT</a></b></td>
+    <td>[Ray Tracing Basics] [Mathematics for Graphics] [Scene Parsing and Rendering]</td>
+    <td>✅ 125%</td>
+  </tr>
 </table>
 
 ## Skills
@@ -77,7 +109,7 @@ Here is a summary of my progress at 42 Lisbon:
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Shell Script" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HMTL" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="SQL" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="ASM" width="40" height="40"/>
@@ -89,12 +121,17 @@ Here is a summary of my progress at 42 Lisbon:
 <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="40" height="40"/>
 
-### Concepts
+### Key Concepts
 - Algorithms
 - Data Structures
 - System Programming
 - Network Programming
 - Object-Oriented Programming
+
+## 📚 Currently Learning
+
+- Web servers  
+- DevOps
 
 ## GitHub Stats
 
