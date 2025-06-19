@@ -67,6 +67,11 @@ Here is a summary of my progress at 42 Lisbon:
     <td>✅ 125%</td>
   </tr>
   <tr>
+    <td><b>NetPractice</b></td>
+    <td>[IP Addressing] [Subnetting] [Network Routing]</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/jcameira/CPP00-42Lisbon">CPP Module 00</b></td>
     <td>[Namespaces] [IO Stream] [Basic OOP Syntax and Concepts]</td>
     <td>✅ 100%</td>
